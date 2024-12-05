@@ -1,0 +1,19 @@
+.idea/
+.vscode/
+.venv*/
+venv*/
+__pycache__/
+dist/
+.coverage*
+htmlcov/
+.tox/
+docs/_build/
+mosu_school/instance/
+mosu_school/nucleus/static/images/games/*
+mosu_school/nucleus/static/images/news/*
+mosu_school/nucleus/static/images/users/*
+
+# exception to the rule
+!nmosu_schoolof_web/nucleus/static/images/games/.gitkeep
+!mosu_school/nucleus/static/images/news/.gitkeep
+!mosu_school/nucleus/static/images/users/.gitkeep
